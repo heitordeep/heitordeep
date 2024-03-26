@@ -1,5 +1,3 @@
-<img alt="heitordeep" height="250" src="avatar.png">
-
 ### About Me:
 - 😃 My name is Fernando, but everyone calls me Heitor
 - 🏦 I've been working as a Data Engineer since 2020.
@@ -23,5 +21,7 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=heitordeep&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=heitordeep&theme=gruvbox&hide_border=true" />
   </a>
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitordeep&layout=compact&langs_count=7&theme=dark"/>
 </p>
 <br>
